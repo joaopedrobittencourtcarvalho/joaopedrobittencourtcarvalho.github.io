@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Método Lucro Extra 
 
-You can use the [editor on GitHub](https://github.com/joaopedrobittencourtcarvalho/joaopedrobittencourtcarvalho.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+O Método Lucro Extra te ensina mais de 20 formas de ganhar dinheiro com a internet que os principais players americanos utilizam e faturam milhões de dólares todos os meses. Através dessas formas você passará a usar a internet a seu favor e nunca mais perderá o seu tempo tão precioso.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
